@@ -29,14 +29,14 @@ jobs:
     - name: Fetch and update cases
       run: python update.py
     - name: Commit changes 
-      uses: EndBug/add-and-commit@v2.1.0 
+      uses: EndBug/add-and-commit@v9.1.4
       # Commit only if this is not a PR
       if: github.ref == 'refs/heads/master'
       with: 
+        new_branch: ${{ github.head_ref }}
         author_name: GitHub Action
         author_email: action@github.com
         message: "Add new cases!"
-        path: "."
-        pattern: "*.json"
+        add: "*.json"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
