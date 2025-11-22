@@ -284050,5 +284050,104 @@
     "term": "2025",
     "description": "A case in which the Court will decide whether an order denying a government contractor\u2019s claim of derivative sovereign immunity under Yearsley v. W.A. Ross Construction Co. is immediately appealable under the collateral-order doctrine, which permits interlocutory appeals of certain non-final orders that conclusively determine important issues separate from the merits.",
     "justia_url": "https://supreme.justia.com/cases/federal/us/2025/24-758/"
+  },
+  {
+    "ID": 63804,
+    "name": "Rutherford v. United States",
+    "href": "https://api.oyez.org/cases/2025/24-820",
+    "view_count": 0,
+    "docket_number": "24-820",
+    "timeline": [
+      {
+        "event": "Granted",
+        "dates": [
+          1749186000
+        ],
+        "href": "https://api.oyez.org/case_timeline/case_timeline/55697"
+      },
+      {
+        "event": "Argued",
+        "dates": [
+          1762927200
+        ],
+        "href": "https://api.oyez.org/case_timeline/case_timeline/55740"
+      }
+    ],
+    "question": "<p>May a district court, when evaluating a motion for compassionate release under 18 U.S.C. \u00a7 3582(c)(1)(A)(i), consider as an \u201cextraordinary and compelling reason\u201d the fact that a defendant is serving a sentence substantially longer than what would be imposed today due to the First Step Act\u2019s prospective changes to mandatory minimum penalties, particularly where the disparity amounts to decades of additional imprisonment?</p>\n\n",
+    "citation": {
+      "volume": null,
+      "page": null,
+      "year": null,
+      "href": "https://api.oyez.org/case_citation/case_citation/28096"
+    },
+    "term": "2025",
+    "description": "A case in which the Court will decide whether district courts may consider sentencing disparities created by the First Step Act\u2019s nonretroactive reduction of mandatory minimum penalties\u2014which can result in defendants serving sentences decades longer than those imposed for identical conduct today\u2014when determining whether \"extraordinary and compelling reasons\" warrant a sentence reduction under the compassionate release statute, 18 U.S.C. \u00a7 3582(c)(1)(A)(i).",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2025/24-820/"
+  },
+  {
+    "ID": 63794,
+    "name": "Fernandez v. United States",
+    "href": "https://api.oyez.org/cases/2025/24-556",
+    "view_count": 0,
+    "docket_number": "24-556 ",
+    "timeline": [
+      {
+        "event": "Granted",
+        "dates": [
+          1748322000
+        ],
+        "href": "https://api.oyez.org/case_timeline/case_timeline/55687"
+      },
+      {
+        "event": "Argued",
+        "dates": [
+          1762927200
+        ],
+        "href": "https://api.oyez.org/case_timeline/case_timeline/55739"
+      }
+    ],
+    "question": "<p>Can a federal prisoner use the compassionate release law to get their sentence reduced based on claims that they might be innocent or that their sentence is unfair, even though these same claims would normally have to be raised through habeas corpus?</p>\n",
+    "citation": {
+      "volume": null,
+      "page": null,
+      "year": null,
+      "href": "https://api.oyez.org/case_citation/case_citation/28086"
+    },
+    "term": "2025",
+    "description": "A case in which the Court will decide whether a combination of \u201cextraordinary and compelling reasons\u201d that may warrant a discretionary sentence reduction under 18 U.S.C. \u00a73582(c)(1)(A) can include reasons that may also be alleged as grounds for vacatur of a sentence under 28 U.S.C. \u00a72255.",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2025/24-556 /"
+  },
+  {
+    "ID": 63790,
+    "name": "Landor v. Louisiana Department of Corrections",
+    "href": "https://api.oyez.org/cases/2025/23-1197",
+    "view_count": 0,
+    "docket_number": "23-1197 ",
+    "timeline": [
+      {
+        "event": "Granted",
+        "dates": [
+          1750654800
+        ],
+        "href": "https://api.oyez.org/case_timeline/case_timeline/55683"
+      },
+      {
+        "event": "Argued",
+        "dates": [
+          1762754400
+        ],
+        "href": "https://api.oyez.org/case_timeline/case_timeline/55737"
+      }
+    ],
+    "question": "<p>May an individual sue a government official in his individual capacity for damages for violations of the Religious Land Use and Institutionalized Persons Act (RLUIPA)?</p>\n",
+    "citation": {
+      "volume": null,
+      "page": null,
+      "year": null,
+      "href": "https://api.oyez.org/case_citation/case_citation/28082"
+    },
+    "term": "2025",
+    "description": "A case in which the Court will decide whether an individual may sue a government official in his individual capacity for damages for violations of the Religious Land Use and Institutionalized Persons Act (RLUIPA).",
+    "justia_url": "https://supreme.justia.com/cases/federal/us/2025/23-1197 /"
   }
 ]
